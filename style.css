@@ -49,7 +49,7 @@ body {
 
 .time2 {
   display: grid;
-  align-items: end;
+  justify-items: end;
 }
 .item__count2 {
   display: grid;
@@ -61,7 +61,7 @@ body {
 
 .time3 {
   display: grid;
-  align-items: end;
+  justify-items: end;
 }
 .item__count3 {
   display: grid;
@@ -73,7 +73,7 @@ body {
 
 .time4 {
   display: grid;
-  align-items: end;
+  justify-items: end;
 }
 .item__count4 {
   display: grid;
@@ -85,7 +85,7 @@ body {
 
 .time5 {
   display: grid;
-  align-items: end;
+  justify-items: end;
 }
 .item__count5 {
   display: grid;
@@ -97,7 +97,7 @@ body {
 
 .time6 {
   display: grid;
-  align-items: end;
+  justify-items: end;
 }
 .item__count6 {
   display: grid;
@@ -109,7 +109,7 @@ body {
 
 .time7 {
   display: grid;
-  align-items: end;
+  justify-items: end;
 }
 .item__count7 {
   display: grid;
